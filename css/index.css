@@ -1,0 +1,44 @@
+.uno{
+  background-color: #002B5B;
+}
+.dos{
+  background-color: #2B4865;
+}
+.tres{
+  background-color: #256D85;
+}
+.cuatro{
+  background-color: #8FE3CF;
+}
+.text_uno{
+  color: #8FE3CF;
+}
+.text_dos{
+  color: #ffffff;
+  font-family: 'Times New Roman', Times, serif;
+}
+.text_tres{
+  color: #00d9ff;
+}
+.navbar-uni{
+  width: 100%;
+  height: 64px;
+  background-color: #2B4865;
+  display: inline-block;
+  align-items: center;
+}
+.icon-uni{
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  margin-right: 0px;
+}
+.icon{
+  background-image: url("/images/u-erre.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 60px;
+  width: 150px;
+}
+
